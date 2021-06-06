@@ -527,8 +527,8 @@ a {
 }
 
 .hero-section__background-image {
-  background-image: -webkit-gradient(linear, left top, right top, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url(../images/background-img-squooshed.jpg);
-  background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/background-img-squooshed.jpg);
+  background-image: -webkit-gradient(linear, left top, right top, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url(../../images/background-img-squooshed.jpg);
+  background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../../images/background-img-squooshed.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -932,7 +932,7 @@ a {
 
 .checkbox:checked + .checkbox-icon {
   background-color: #2196f3;
-  background-image: url(../images/icon-checbox.svg);
+  background-image: url(../../images/icon-checbox.svg);
   background-size: contain;
   background-origin: border-box;
   border-color: transparent;
